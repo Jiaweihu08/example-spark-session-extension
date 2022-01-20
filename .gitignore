@@ -1,4 +1,11 @@
-.bsp/
-.idea/
-target/
 .DS_Store
+.bsp
+*.class
+*.log
+
+.cache/
+target/
+project/target
+project/project
+
+.idea
