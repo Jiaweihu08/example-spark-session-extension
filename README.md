@@ -19,7 +19,7 @@
   ```
 - See changes
   ```bash
-  val source = "/src/test/scala/resources/ecommerce300k_2019_Nov.cv"
+  val source = "/src/test/scala/resources/ecommerce300k_2019_Nov.csv"
    
   val df = (spark.read
             .option("header", "true")
